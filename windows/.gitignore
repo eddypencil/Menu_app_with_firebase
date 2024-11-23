@@ -43,3 +43,8 @@ ios/Runner/GoogleService-Info.plist
 *.pem
 *.p12
 *.jks
+
+
+# Firebase configuration files
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
