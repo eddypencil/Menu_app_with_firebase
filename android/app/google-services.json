@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "709640544731",
+    "project_id": "menuapp-baf4e",
+    "storage_bucket": "menuapp-baf4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709640544731:android:3c8bfb16f93b750c3c87fe",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQeHkKBitNi_iqMO-vtm8wooad2_kdZvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709640544731:android:0733692ac139ea083c87fe",
+        "android_client_info": {
+          "package_name": "com.example.menu_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQeHkKBitNi_iqMO-vtm8wooad2_kdZvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
